@@ -1,16 +1,13 @@
-# ravenclaw-theme README
+# README
 
-## Working with Markdown
+## Motivations
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This idea of a theme came to me because I'm a Ravenclaw and wanted a new VSCode theme using the Ravenclaw palette.
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+To update the colours, please use
 
-**Enjoy!**
+- [color-hex website](https://www.color-hex.com/) for the colours you want to use
+- [VSCode refs](https://code.visualstudio.com/api/references/theme-color) for the list of references to use to update VSCode's themes
+ 
