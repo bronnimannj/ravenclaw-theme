@@ -24,6 +24,8 @@ This project contains the necessary files to create a VSCode Extension called "R
 
 ## Visuals <a name="visuals"></a>
 
+![image](https://user-images.githubusercontent.com/29840762/209167148-35b54add-676b-408d-8a68-3f23de89c6fa.png)
+
 
 ## Instructions <a name="instructions"></a>
 
