@@ -2,19 +2,19 @@
   "name": "ravenclaw-theme",
   "displayName": "Ravenclaw",
   "description": "A VS Code theme with the Ravenclaw colours",
-	"version": "1.0.1",
-	"publisher": "JulieB",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/jmballard/ravenclaw-theme"
-	},
-	"keywords": [
-		"theme",
-		"dark theme",
-		"ravenclaw",
-		"harry potter",
-		"hogwarts"
-	],
+  "version": "1.1.0",
+  "publisher": "JulieB",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmballard/ravenclaw-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ravenclaw",
+    "harry potter",
+    "hogwarts"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
